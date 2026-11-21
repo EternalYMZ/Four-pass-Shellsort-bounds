@@ -1,0 +1,8 @@
+import Shellsort.EndpointInnovationBudget
+import Shellsort.FourPassCyclicSupportAudit
+import Shellsort.OddGapParity
+
+#check Shellsort.EndpointInnovationBudget.innovation_variance_bounds
+#print axioms Shellsort.EndpointInnovationBudget.innovation_variance_bounds
+#check Shellsort.FourPassCyclicSupport.rounded_every_arc_iff
+#print axioms Shellsort.FourPassCyclicSupport.rounded_every_arc_iff
