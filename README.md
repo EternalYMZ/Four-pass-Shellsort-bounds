@@ -17,4 +17,4 @@ lake build
 
 ## Proof guide
 
-[Read the proof idea in Chinese](brief.md). ExactFiberPacking gives the finite residue-fiber packing calculation.
+[Read the proof guide](brief.md). ExactFiberPacking gives the finite residue-fiber packing calculation.
