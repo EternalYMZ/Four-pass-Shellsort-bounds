@@ -2,7 +2,7 @@
 
 Miaozhen Yu (俞缪臻) · [Project S directory](https://github.com/EternalYMZ/Optimal-mean-costs-of-three-pass-Shellsort/blob/main/PROJECT-S.md)
 
-The checked roots concern cyclic support and innovation variance under explicit source hypotheses. The unrestricted four-pass average exponent 25/18 remains a candidate. This release contains no machine-checked all-gap lower bound of that order.
+With e = gcd(h,g), d = gcd(g,k), gcd(h,g,k) = 1 and r = n mod h, the new arithmetic lemmas identify runs of slots from long and short original chains. They bound the uniform block count d(floor(r/g) + floor((h-r)/g)) from below by d(floor(h/g)-1). The older cyclic support and variance theorems have explicit source hypotheses. The general four-pass lower bound of order n^(25/18) remains open in this formalization.
 
 ## Check the Lean statements
 
