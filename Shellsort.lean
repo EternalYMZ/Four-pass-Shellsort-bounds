@@ -1,3 +1,4 @@
+import Shellsort.WidthMultiplicity
 import Shellsort.FiberPacking
 import Shellsort.EndpointInnovationBudget
 import Shellsort.FourPassCyclicSupportAudit
@@ -18,3 +19,6 @@ import Shellsort.OddGapParity
 #print axioms ProjectS.FourPass.FiberPacking.common_blocks_bounds
 #check ProjectS.FourPass.FiberPacking.two_gap_ratio
 #print axioms ProjectS.FourPass.FiberPacking.two_gap_ratio
+
+#check ProjectS.FourPass.WidthMultiplicity.floor_sum
+#print axioms ProjectS.FourPass.WidthMultiplicity.floor_sum
