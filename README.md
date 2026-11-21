@@ -2,7 +2,7 @@
 
 Miaozhen Yu (俞缪臻) · [Project S directory](https://github.com/EternalYMZ/Optimal-mean-costs-of-three-pass-Shellsort/blob/main/PROJECT-S.md)
 
-The source placement lemmas track long and short original chains through each residue class. For e = gcd(h,g), d = gcd(g,k), gcd(h,g,k) = 1 and r = n mod h, the conservative complete-block count d(floor(r/g) + floor((h-r)/g)) is at least d(floor(h/g)-1). A separate arithmetic theorem computes the sum of floor((W+i)/g) over 0 ≤ i < d exactly. The probabilistic transfer from block counts to an unrestricted four-pass lower bound remains open.
+Exact fiber packing and source placement track long and short chains through each residue class. For e = gcd(h,g), d = gcd(g,k), gcd(h,g,k) = 1 and r = n mod h, the maximum common complete-block count for one multiplicity table used on every fiber is d(floor(r/g) + floor((h-r)/g)), at least d(floor(h/g)-1). The exact per-fiber and common-table statements are in [ExactFiberPacking.lean](Shellsort/ExactFiberPacking.lean). The probabilistic transfer to an unrestricted four-pass lower bound remains open.
 
 ## Check the Lean statements
 

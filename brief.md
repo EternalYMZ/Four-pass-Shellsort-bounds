@@ -9,3 +9,5 @@ $$q=d(\lfloor r/g\rfloor+\lfloor(h-r)/g\rfloor)\ge d(\lfloor h/g\rfloor-1).$$
 Thus even at $\lfloor h/g\rfloor=2$ each group admits $d$ blocks. Within a single residue class the boundary remainders give a finer packing calculation. Lean covers the physical placement, cyclic coverage and rounding estimates. Turning these fluctuations into enough surviving inversions for every four-pass table is a further step; the global exponent $25/18$ is a candidate.
 
 [FiberPacking.lean](https://github.com/EternalYMZ/Four-pass-Shellsort-bounds/blob/6bc015e6b704f5911713a58c4f476dcf71514998/Shellsort/FiberPacking.lean) · [WidthMultiplicity.lean](https://github.com/EternalYMZ/Four-pass-Shellsort-bounds/blob/6bc015e6b704f5911713a58c4f476dcf71514998/Shellsort/WidthMultiplicity.lean)
+
+[Exact fiber packing](Shellsort/ExactFiberPacking.lean)

@@ -3,6 +3,7 @@ import Shellsort.FiberPacking
 import Shellsort.EndpointInnovationBudget
 import Shellsort.FourPassCyclicSupportAudit
 import Shellsort.OddGapParity
+import Shellsort.ExactFiberPacking
 
 #check Shellsort.EndpointInnovationBudget.innovation_variance_bounds
 #print axioms Shellsort.EndpointInnovationBudget.innovation_variance_bounds
@@ -22,4 +23,6 @@ import Shellsort.OddGapParity
 
 #check ProjectS.FourPass.WidthMultiplicity.floor_sum
 #print axioms ProjectS.FourPass.WidthMultiplicity.floor_sum
-import Shellsort.ExactFiberPacking
+
+#print axioms ProjectS.FourPass.ExactFiberPacking.exact_common_table
+#print axioms ProjectS.FourPass.ExactFiberPacking.exact_two_types
