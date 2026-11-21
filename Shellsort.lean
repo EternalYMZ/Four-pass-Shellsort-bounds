@@ -22,3 +22,4 @@ import Shellsort.OddGapParity
 
 #check ProjectS.FourPass.WidthMultiplicity.floor_sum
 #print axioms ProjectS.FourPass.WidthMultiplicity.floor_sum
+import Shellsort.ExactFiberPacking
